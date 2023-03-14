@@ -1,8 +1,6 @@
 <h1 align="center">Cześć, mam na imię Filip 👋</h1>
 <h3 align="center">Jestem studentem informatyki, który poszukuje pracy jako programista. Szybko uczę się nowych rzeczy. Programowanie od zawsze było moją pasją, wiem, że jest to kierunek w którym chcę się dalej rozwijać. Szukam miejsca które pozwoli mi poszerzyć moje obecne umiejętności, a także zdobyć nowe cenne doświadczenie.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filipadamus03&label=Profile%20views&color=0e75b6&style=flat" alt="filipadamus03" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/filipadamus03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="filipadamus03" height="30" width="40" /></a>
@@ -16,5 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipadamus03&show_icons=true&locale=en&layout=compact" alt="filipadamus03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipadamus03&show_icons=true&locale=en" alt="filipadamus03" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=filipadamus03&label=Profile%20views&color=0e75b6&style=flat" alt="filipadamus03" /> </p>
 
