@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Cześć, mam na imię Filip 👋</h1>
 <h3 align="center">Jestem studentem informatyki, który poszukuje pracy jako programista. Szybko uczę się nowych rzeczy. Programowanie od zawsze było moją pasją, wiem, że jest to kierunek w którym chcę się dalej rozwijać. Szukam miejsca które pozwoli mi poszerzyć moje obecne umiejętności, a także zdobyć nowe cenne doświadczenie.</h3>
 
