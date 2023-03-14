@@ -1,4 +1,5 @@
 ![MasterHead](https://media.giphy.com/media/lmAm7TskxjAYC2y8j1/giphy.gif)
+<iframe src="https://giphy.com/embed/yAhA1ZN20ocdGmoxMV" width="480" height="68" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yAhA1ZN20ocdGmoxMV">via GIPHY</a></p>
 <h1 align="center">Cześć, mam na imię Filip 👋</h1>
 <h3 align="center">Jestem studentem informatyki, który poszukuje pracy jako programista. Szybko uczę się nowych rzeczy. Programowanie od zawsze było moją pasją, wiem, że jest to kierunek w którym chcę się dalej rozwijać. Szukam miejsca które pozwoli mi poszerzyć moje obecne umiejętności, a także zdobyć nowe cenne doświadczenie.</h3>
 
