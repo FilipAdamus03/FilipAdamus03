@@ -1,4 +1,4 @@
-![MasterHead](https://s10.gifyu.com/images/ezgif.com-video-to-gifd14098404f703018.gif)
+![MasterHead](https://s2.gifyu.com/images/ezgif.com-resizef31776667c35d6b8.gif)
 
 <h1 align="center">Cześć, mam na imię Filip 👋</h1>
 <h3 align="center">Jestem studentem informatyki, który poszukuje pracy jako programista. Szybko uczę się nowych rzeczy. Programowanie od zawsze było moją pasją, wiem, że jest to kierunek w którym chcę się dalej rozwijać. Szukam miejsca które pozwoli mi poszerzyć moje obecne umiejętności, a także zdobyć nowe cenne doświadczenie.</h3>
