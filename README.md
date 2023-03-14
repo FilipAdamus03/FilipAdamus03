@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA4OTZhZWU4NjE1ZTAxYzJiNWFmMmIwNzJhYjc4M2IyNjU1YWNkZCZjdD1n/yAhA1ZN20ocdGmoxMV/giphy.gif)
+![MasterHead](https://media2.giphy.com/media/yAhA1ZN20ocdGmoxMV/900w.gif)
 
 <div style="width:100%;height:0;padding-bottom:14%;position:relative;"><iframe src="https://giphy.com/embed/yAhA1ZN20ocdGmoxMV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/yAhA1ZN20ocdGmoxMV">via GIPHY</a></p>
 
