@@ -15,7 +15,7 @@
 <p><img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipadamus03&show_icons=true&locale=en&layout=compact" alt="filipadamus03" /></p>
 <p><img align="right" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=filipadamus03&" alt="filipadamus03" /></p>
 
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=filipadamus03&label=Profile%20views&color=0e75b6&style=flat" alt="filipadamus03" /> </p>
