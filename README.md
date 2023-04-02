@@ -1,7 +1,7 @@
 ![MasterHead](https://s2.gifyu.com/images/ezgif.com-resize-4f8e47f6e3fb707ae.gif)
 
-<h1 align="center">Cześć, mam na imię Filip 👋</h1>
-<h3 align="center">Jestem studentem informatyki, który poszukuje pracy jako programista. Szybko uczę się nowych rzeczy. Programowanie od zawsze było moją pasją, wiem, że jest to kierunek w którym chcę się dalej rozwijać. Szukam miejsca które pozwoli mi poszerzyć moje obecne umiejętności, a także zdobyć nowe cenne doświadczenie.</h3>
+<h1 align="center">Hi, my name is Filip 👋</h1>
+<h3 align="center">I am a computer science student looking for a job as a programmer. I am quick to learn new things. Programming has always been a passion of mine, and I know it is a direction I want to continue to grow in. I am looking for a place that will allow me to expand my current skills, as well as gain valuable new experience.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
