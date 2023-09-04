@@ -1,7 +1,7 @@
 ![MasterHead](https://s2.gifyu.com/images/tlo158263d7cdc5698e1.gif)
 
 <h1 align="center">Hi, my name is Filip 👋</h1>
-<h3 align="center">I am a computer science student looking for a job as a programmer. I am quick to learn new things. Programming and databases have always been a passion of mine and I know it is a direction I want to continue to grow in. I am looking for a place that will allow me to develop my current skills as well as gain valuable new experience.</h3>
+<h3 align="center">I am a computer science student looking for a job. I am quick to learn new things. Programming and databases have always been a passion of mine and I know it is a direction I want to continue to grow in. I am looking for a place that will allow me to develop my current skills as well as gain valuable new experience.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
